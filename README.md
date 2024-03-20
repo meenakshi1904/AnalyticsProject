@@ -7,7 +7,7 @@
       4) Total Order
       5)Avg Pizza per  Order
 
-=> Pie chart,Bar chart, funnel chart,Line Chart used for Daily/Monthy Sales analysis and  for Best and worst Seller identification.
+=> Pie chart,Bar chart, funnel chart,Line Chart used for Daily/Monthy Sales analysis and  for Best and worst Seller identification.            
 => A small business insight have been displayed as well for better understanding.
 
 Please go through the chart  and share your feedback
